@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Person.svg"
+   inkscape:label="Entity-EntityContext1">
+  <title
+     id="title4676">CIDME-UI CIDME Person base icon - cidme.net</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient11995"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11993" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11833"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11831" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4509"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4507" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0475"
+     inkscape:cx="83.890215"
+     inkscape:cy="204.53461"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="4"
+     inkscape:window-y="55"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CIDME-UI CIDME Person base icon - cidme.net</dc:title>
+        <dc:date>2020-01-02</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Joe Thielen &lt;joe@joethielen.com&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>CIDME-UI CIDME Person base icon - cidme.net</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>CIDME Person base icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-164.70831)">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.9700551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path11979"
+       cx="250"
+       cy="389.70831"
+       rx="97.514977"
+       ry="97.514969" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.00598288;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path11979-9"
+       sodipodi:type="arc"
+       sodipodi:cx="250"
+       sodipodi:cy="664.37311"
+       sodipodi:rx="147.49701"
+       sodipodi:ry="147.16309"
+       sodipodi:start="3.1393532"
+       sodipodi:end="0.0011830351"
+       sodipodi:open="true"
+       d="m 102.50336,664.70267 a 147.49701,147.16309 0 0 1 73.60785,-127.69562 147.49701,147.16309 0 0 1 147.64269,-0.0778 147.49701,147.16309 0 0 1 73.74301,127.61797" />
+  </g>
+</svg>

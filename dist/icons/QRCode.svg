@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="QRCode.svg"
+   inkscape:label="Entity-EntityContext1">
+  <title
+     id="title4676">CIDME-UI CIDME QR code base icon - cidme.net</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient13146"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop13144" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 250 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 250 : 1"
+       inkscape:persp3d-origin="250 : 166.66667 : 1"
+       id="perspective13118" />
+    <linearGradient
+       id="linearGradient11995"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11993" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11833"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11831" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4509"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4507" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3702219"
+     inkscape:cx="250"
+     inkscape:cy="216.24789"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="4"
+     inkscape:window-y="55"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CIDME-UI CIDME QR code base icon - cidme.net</dc:title>
+        <dc:date>2020-01-02</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Joe Thielen &lt;joe@joethielen.com&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>CIDME-UI CIDME QR code base icon - cidme.net</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>CIDME QR code base icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     id="layer1"
+     transform="translate(0,-164.70831)"
+     inkscape:groupmode="layer"
+     style="display:inline;opacity:1">
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13134"
+       width="195.12195"
+       height="195.12195"
+       x="152.43903"
+       y="317.14734"
+       inkscape:label="Outer Square" />
+    <g
+       aria-label="CIDME://"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Borg 9';-inkscape-font-specification:'Borg 9, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="text13180"
+       inkscape:label="CIDME://">
+      <path
+         d="m 203.51764,526.97992 c 0,-1.68 -1.81333,-2.74667 -4,-2.74667 h -17.49333 c -2.05333,0 -3.97333,1.04 -3.97333,2.74667 v 2.88 h 25.46666 z m 0,11.22666 h -18.50666 l -0.37334,-0.13333 c -0.66666,-0.24 -1.01333,-0.61333 -1.01333,-1.30667 v -4.16 h -5.57333 v 6.98667 c 0,1.25333 0.98666,2.10667 2.93333,2.61333 0.50667,0.13334 0.85333,0.18667 1.04,0.18667 h 21.49333 z"
+         style="font-size:26.66666603px"
+         id="path13604"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 211.90556,524.23325 h -5.57333 v 5.62667 h 5.57333 z m 0,8.37333 h -5.57333 v 9.78667 h 5.57333 z"
+         style="font-size:26.66666603px"
+         id="path13606"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 240.18431,526.97992 c 0,-1.68 -1.81334,-2.74667 -4,-2.74667 h -21.46667 v 5.62667 h 25.46667 z m 0,5.62666 h -5.57334 v 4.16 c 0,0.66667 -0.98666,1.44 -1.68,1.44 h -12.64 v -5.6 h -5.57333 v 9.78667 h 21.46667 c 0.08,0 0.24,-0.0267 0.48,-0.0533 2.34666,-0.48 3.52,-1.38667 3.52,-2.74667 z"
+         style="font-size:26.66666603px"
+         id="path13608"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 273.77222,524.23325 h -8.02666 l -3.41334,5.62667 h 11.44 z m 0,8.37333 h -5.6 v 9.78667 h 5.6 z m -22.74666,-8.37333 h -8.02667 v 5.62667 h 11.41333 z m 9.70666,8.37333 -2.26666,3.44 -2.42667,-3.44 h -6.53333 l 5.54666,9.78667 h 6.66667 l 5.54667,-9.78667 z m -12.16,0 h -5.57333 v 9.78667 h 5.57333 z"
+         style="font-size:26.66666603px"
+         id="path13610"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 293.33931,524.23325 h -16.74667 v 5.62667 h 5.57333 v -1.38667 h 11.17334 z m 0.32,13.97333 h -11.49334 v -1.38666 h 6.98667 v -4.21334 h -12.56 v 9.78667 h 17.06667 z"
+         style="font-size:26.66666603px"
+         id="path13612"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 302.57598,527.51325 h -5.6 v 3.52 h 5.6 z m 0,8.74667 h -5.6 v 3.28 h 5.6 z"
+         style="font-size:26.66666603px"
+         id="path13614"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 305.19055,543.88658 h 2.26667 l 9.76,-20.58666 h -2.48 z"
+         style="font-size:26.66666603px"
+         id="path13616"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 318.57597,543.88658 h 2.26667 l 9.76,-20.58666 h -2.48 z"
+         style="font-size:26.66666603px"
+         id="path13618"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13182"
+       width="45.999283"
+       height="45.999283"
+       x="152.43903"
+       y="317.14734"
+       inkscape:label="Upper Left QR Box Outer" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.90202951;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13182-1"
+       width="45.097973"
+       height="45.097969"
+       x="302.45102"
+       y="317.1593"
+       inkscape:label="Upper Right QR Box Outer" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13182-18"
+       width="45.999283"
+       height="45.999283"
+       x="152.73782"
+       y="465.58932"
+       inkscape:label="Lower Left QR Box Outer" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.9412179;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13182-14"
+       width="27.058783"
+       height="27.058783"
+       x="161.65115"
+       y="327.24896"
+       inkscape:label="Upper Left QR Box Inner" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.9412179;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13182-14-3"
+       width="27.058783"
+       height="27.058783"
+       x="311.4682"
+       y="326.17654"
+       inkscape:label="Upper Right QR Box Inner" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.9412179;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13182-14-8"
+       width="27.058783"
+       height="27.058783"
+       x="161.29161"
+       y="475.36984"
+       inkscape:label="Lower Left QR Box Inner" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13182-14-8-0"
+       width="27.058783"
+       height="27.058783"
+       x="290.2749"
+       y="452.1813"
+       inkscape:label="Lower Right QR Box Outer" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.55963504;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13182-14-8-0-2"
+       width="8.4403648"
+       height="8.4403648"
+       x="299.33276"
+       y="462.26691"
+       inkscape:label="Lower Right QR Box Inner" />
+    <g
+       aria-label="C"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Borg 9';-inkscape-font-specification:'Borg 9, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="text13291"
+       inkscape:label="C">
+      <path
+         d="m 268.2,401.58831 c 0,-2.52 -2.72,-4.12 -6,-4.12 h -26.24 c -3.08,0 -5.96,1.56 -5.96,4.12 v 4.32 h 38.2 z m 0,16.84 h -27.76 l -0.56,-0.2 c -1,-0.36 -1.52,-0.92 -1.52,-1.96 v -6.24 H 230 v 10.48 c 0,1.88 1.48,3.16 4.4,3.92 0.76,0.2 1.28,0.28 1.56,0.28 h 32.24 z"
+         id="path13601"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="://"
+       transform="scale(0.99999009,1.0000099)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99960327px;line-height:1.25;font-family:'Borg 9';-inkscape-font-specification:'Borg 9, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999011"
+       id="text13295"
+       inkscape:label="://">
+      <path
+         d="m 253.80247,409.51759 h -2.79997 v 1.75999 h 2.79997 z m 0,4.37329 h -2.79997 v 1.63999 h 2.79997 z"
+         style="font-size:13.33320141px;stroke-width:0.99999011"
+         id="path13594"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 255.10975,417.70418 h 1.13332 l 4.87995,-10.29323 h -1.23999 z"
+         style="font-size:13.33320141px;stroke-width:0.99999011"
+         id="path13596"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 261.80239,417.70418 h 1.13332 l 4.87995,-10.29323 h -1.23998 z"
+         style="font-size:13.33320141px;stroke-width:0.99999011"
+         id="path13598"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
