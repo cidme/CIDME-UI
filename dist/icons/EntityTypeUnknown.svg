@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="EntityTypeUnknown.svg"
+   inkscape:label="Entity-EntityContext1">
+  <title
+     id="title4676">CIDME-UI CIDME EntityType Unknown base icon - cidme.net</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient11995"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11993" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11833"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11831" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4509"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4507" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="285.49718"
+     inkscape:cy="284.53461"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="4"
+     inkscape:window-y="55"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CIDME-UI CIDME EntityType Unknown base icon - cidme.net</dc:title>
+        <dc:date>2020-01-02</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Joe Thielen &lt;joe@joethielen.com&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>CIDME-UI CIDME EntityType Unknown base icon - cidme.net</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>CIDME EntityType Unknown base icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-164.70831)">
+    <g
+       aria-label="?"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Borg 9';-inkscape-font-specification:'Borg 9, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="text1491"
+       transform="translate(-0.72,-62.192)">
+      <path
+         d="m 325.096,355.73231 c 0,-11.712 -12.672,-19.776 -28.8,-19.776 H 175.72 v 30.528 h 100.8 c 5.376,0 8.064,3.264 8.256,9.984 h 40.32 z m 0,40.512 h -75.072 c -22.08,0 -40.128,14.016 -40.128,25.728 v 5.952 h 40.128 c 2.688,-4.032 6.912,-5.952 13.056,-5.952 h 33.216 c 19.2,0 28.8,-5.376 28.8,-15.552 z m -75.072,47.232 h -40.128 v 23.424 h 40.128 z"
+         style="font-size:192px"
+         id="path1493"
+         inkscape:connector-curvature="0" />
+    </g>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.48502755;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path11979"
+       cx="75"
+       cy="514.70831"
+       r="48.757484" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.50300455;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path11979-9"
+       sodipodi:type="arc"
+       sodipodi:cx="75"
+       sodipodi:cy="664.54071"
+       sodipodi:rx="73.748497"
+       sodipodi:ry="73.582329"
+       sodipodi:start="3.1393532"
+       sodipodi:end="0.0011830351"
+       sodipodi:open="true"
+       d="M 1.2516879,664.70549 A 73.748497,73.582329 0 0 1 38.055607,600.857 a 73.748497,73.582329 0 0 1 73.821333,-0.0389 73.748497,73.582329 0 0 1 36.87151,63.80966" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.43902445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13134"
+       width="97.560966"
+       height="97.560974"
+       x="351.21851"
+       y="503.42783"
+       inkscape:label="Square" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.52988768;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path12546"
+       cx="448.99899"
+       cy="602.20831"
+       inkscape:label="Circle"
+       rx="36.235054"
+       ry="36.235058" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.97168136;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 397.62231,638.22247 h -70.19089 l 35.98394,-70.1924 z"
+       id="path13140"
+       inkscape:connector-curvature="0"
+       inkscape:label="Triangle" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.51103163;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 186.74456,558.95586 51.94306,78.44042 49.03813,-77.67732"
+       id="path13097"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:label="Bottom triangle" />
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.53056669;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13095"
+       sodipodi:type="arc"
+       sodipodi:cx="237.49695"
+       sodipodi:cy="524.69379"
+       sodipodi:rx="61.234718"
+       sodipodi:ry="61.234718"
+       sodipodi:start="2.5302246"
+       sodipodi:end="0.60891945"
+       d="m 187.35407,559.8418 a 61.234718,61.234718 0 0 1 9.38931,-80.85181 61.234718,61.234718 0 0 1 81.39511,-0.0996 61.234718,61.234718 0 0 1 9.58725,80.82857"
+       sodipodi:open="true"
+       inkscape:label="Top arc" />
+    <ellipse
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.52988768;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path12546-2"
+       cx="237.49695"
+       cy="524.69379"
+       inkscape:label="Inner Circle"
+       rx="36.235062"
+       ry="36.235058" />
+  </g>
+</svg>
