@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="CIDME-C.svg"
+   inkscape:label="Entity-EntityContext1">
+  <title
+     id="title4676">CIDME C:// Logo - cidme.net</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient13146"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop13144" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 250 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 250 : 1"
+       inkscape:persp3d-origin="250 : 166.66667 : 1"
+       id="perspective13118" />
+    <linearGradient
+       id="linearGradient11995"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11993" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11833"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11831" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4509"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4507" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="249.1"
+     inkscape:cy="253.62"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="4"
+     inkscape:window-y="55"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CIDME C:// Logo - cidme.net</dc:title>
+        <dc:date>2020-01-02</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Joe Thielen &lt;joe@joethielen.com&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>CIDME C:// logo - cidme.net</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>CIDME C:// logo</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     id="layer1"
+     transform="translate(0,-164.70831)"
+     inkscape:groupmode="layer"
+     style="display:inline;opacity:1">
+    <g
+       aria-label="C"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Borg 9';-inkscape-font-specification:'Borg 9, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="text13291"
+       inkscape:label="C"
+       transform="matrix(10.471204,0,0,10.471204,-2359.277,-3893.5013)">
+      <path
+         d="m 268.2,401.58831 c 0,-2.52 -2.72,-4.12 -6,-4.12 h -26.24 c -3.08,0 -5.96,1.56 -5.96,4.12 v 4.32 h 38.2 z m 0,16.84 h -27.76 l -0.56,-0.2 c -1,-0.36 -1.52,-0.92 -1.52,-1.96 v -6.24 H 230 v 10.48 c 0,1.88 1.48,3.16 4.4,3.92 0.76,0.2 1.28,0.28 1.56,0.28 h 32.24 z"
+         id="path13601"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="://"
+       transform="matrix(10.471101,0,0,10.471308,-2359.277,-3893.5013)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99960327px;line-height:1.25;font-family:'Borg 9';-inkscape-font-specification:'Borg 9, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999011"
+       id="text13295"
+       inkscape:label="://">
+      <path
+         d="m 253.80247,409.51759 h -2.79997 v 1.75999 h 2.79997 z m 0,4.37329 h -2.79997 v 1.63999 h 2.79997 z"
+         style="font-size:13.33320141px;stroke-width:0.99999011"
+         id="path13594"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 255.10975,417.70418 h 1.13332 l 4.87995,-10.29323 h -1.23999 z"
+         style="font-size:13.33320141px;stroke-width:0.99999011"
+         id="path13596"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 261.80239,417.70418 h 1.13332 l 4.87995,-10.29323 h -1.23998 z"
+         style="font-size:13.33320141px;stroke-width:0.99999011"
+         id="path13598"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
