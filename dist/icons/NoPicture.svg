@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="NoPicture.svg"
+   sodipodi:docname="NoPicture-paths.svg"
    inkscape:label="Entity-EntityContext1">
   <title
      id="title4676">CIDME-UI No Picture base icon - cidme.net</title>
@@ -55,10 +55,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="111.49718"
-     inkscape:cy="284.53461"
+     inkscape:cx="-67.50282"
+     inkscape:cy="444.53461"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="text2240-1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -111,32 +111,64 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-164.70831)">
-    <text
-       xml:space="preserve"
+    <g
+       aria-label="N/A"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Borg 9';-inkscape-font-specification:'Borg 9, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="39.632"
-       y="341.9563"
-       id="text2240-1"><tspan
-         sodipodi:role="line"
-         id="tspan2238-0"
-         x="39.632"
-         y="341.9563"
-         style="font-size:192px">N/A</tspan></text>
-    <text
-       xml:space="preserve"
+       id="text2240-1">
+      <path
+         d="m 201.68,211.2043 h -40.32 v 40.512 h 40.32 z m -93.888,0 H 50 v 40.512 h 82.176 z m 93.888,60.288 h -40.32 v 24.768 l -17.472,-24.768 h -47.04 l 39.936,70.464 h 64.896 z m -111.552,0 H 50 v 70.464 h 40.128 z"
+         style="font-size:192px"
+         id="path824" />
+      <path
+         d="m 215.405,352.7083 h 16.32 l 70.272,-148.224 h -17.856 z"
+         style="font-size:192px"
+         id="path826" />
+      <path
+         d="m 414.653,271.4923 h -92.16 l -34.368,70.464 h 40.128 l 19.584,-40.128 h 41.28 l 19.584,40.128 h 40.704 z m -61.632,-60.288 -20.736,40.512 h 72.192 l -20.544,-40.512 z"
+         style="font-size:192px"
+         id="path828" />
+    </g>
+    <g
+       aria-label="      NO
+Picture"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Borg 9';-inkscape-font-specification:'Borg 9, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="7"
-       y="465.70831"
-       id="text2280"><tspan
-         sodipodi:role="line"
-         id="tspan2278"
-         x="7"
-         y="465.70831"
-         style="font-size:85.33333588px">      NO</tspan><tspan
-         sodipodi:role="line"
-         x="7"
-         y="572.375"
-         id="tspan2282"
-         style="font-size:85.33333588px">Picture</tspan></text>
+       id="text2280">
+      <path
+         d="m 252.02134,407.59631 h -17.92001 v 18.00534 h 17.92001 z m -41.72801,0 H 184.608 v 18.00534 h 36.52267 z m 41.72801,26.79467 h -17.92001 v 11.008 l -7.76533,-11.008 h -20.90667 l 17.74934,31.31733 h 28.84267 z m -49.57867,0 H 184.608 v 31.31733 h 17.83467 z"
+         style="font-size:85.33333588px"
+         id="path831" />
+      <path
+         d="m 342.60134,416.38564 c 0,-5.376 -5.80267,-8.78933 -12.8,-8.78933 h -55.97867 c -6.57067,0 -12.71467,3.328 -12.71467,8.78933 v 9.21601 h 81.49334 z m 0,18.00534 h -17.83467 v 13.312 c 0,2.13333 -3.15733,4.608 -5.376,4.608 H 283.38 l -1.19467,-0.42667 c -2.13333,-0.768 -3.24266,-1.96266 -3.24266,-4.18133 v -13.312 H 261.108 v 22.35733 c 0,4.01067 3.15733,6.74134 9.38667,8.36267 1.62133,0.42667 2.73066,0.59733 3.328,0.59733 h 55.97867 c 0.256,0 0.768,-0.0853 1.536,-0.17066 7.50933,-1.536 11.264,-4.43734 11.264,-8.78934 z"
+         style="font-size:85.33333588px"
+         id="path833" />
+      <path
+         d="m 83.032002,523.05231 c 0,-5.29066 -5.632,-8.78933 -12.8,-8.78933 H 11.608 v 18.00533 h 17.834667 v -4.43733 h 32.085335 c 2.389333,0 3.584,1.45067 3.669333,4.43733 h 17.834667 z m 0,18.00534 H 11.608 v 31.31733 h 17.834667 v -17.83466 h 40.789335 c 8.277333,0 12.8,-5.29067 12.8,-8.96 z"
+         style="font-size:85.33333588px"
+         id="path835" />
+      <path
+         d="M 109.94267,514.26298 H 92.108 v 18.00533 h 17.83467 z m 0,26.79467 H 92.108 v 31.31733 h 17.83467 z"
+         style="font-size:85.33333588px"
+         id="path837" />
+      <path
+         d="m 200.43467,523.05231 c 0,-5.376 -5.80267,-8.78933 -12.8,-8.78933 H 131.656 c -6.57066,0 -12.71466,3.328 -12.71466,8.78933 v 9.216 h 81.49333 z m 0,35.92534 h -59.22133 l -1.19467,-0.42667 c -2.13333,-0.768 -3.24267,-1.96266 -3.24267,-4.18133 v -13.312 h -17.83466 v 22.35733 c 0,4.01067 3.15733,6.74134 9.38666,8.36267 1.62134,0.42667 2.73067,0.59733 3.328,0.59733 h 68.77867 z"
+         style="font-size:85.33333588px"
+         id="path839" />
+      <path
+         d="m 260.47066,514.26298 h -54.69867 v 18.00533 h 54.69867 z M 240.588,541.05765 h -17.92 v 31.31733 h 17.92 z"
+         style="font-size:85.33333588px"
+         id="path841" />
+      <path
+         d="m 347.10134,514.26298 h -17.83467 v 18.00533 h 17.83467 z m -63.65867,0 H 265.608 v 18.00533 h 17.83467 z m 63.65867,26.79467 h -17.83467 v 13.312 c 0,2.13333 -3.15733,4.608 -5.376,4.608 H 287.88 l -1.19467,-0.42667 c -2.13333,-0.768 -3.24266,-1.96266 -3.24266,-4.18133 v -13.312 H 265.608 v 22.35733 c 0,4.01067 3.15733,6.74134 9.38667,8.36267 1.62133,0.42667 2.73066,0.59733 3.328,0.59733 h 55.97867 c 0.256,0 0.768,-0.0853 1.536,-0.17066 7.50933,-1.536 11.264,-4.43734 11.264,-8.78934 z"
+         style="font-size:85.33333588px"
+         id="path843" />
+      <path
+         d="m 427.532,523.05231 c 0,-5.29066 -5.632,-8.78933 -12.8,-8.78933 h -58.624 v 18.00533 h 17.83467 v -4.43733 H 406.028 c 2.38934,0 3.584,1.45067 3.66934,4.43733 H 427.532 Z m -12.8,31.48801 1.62134,-0.256 c 7.424,-1.45067 11.17866,-4.352 11.17866,-8.704 v -4.52267 h -71.424 v 31.31733 h 17.83467 v -17.83466 h 21.16266 L 407.82,572.37498 h 19.712 z"
+         style="font-size:85.33333588px"
+         id="path845" />
+      <path
+         d="M 490.19734,514.26298 H 436.608 v 18.00533 h 17.83467 v -4.43733 h 35.75467 z m 1.024,44.71467 h -36.77867 v -4.43733 H 476.8 v -13.48267 h -40.192 v 31.31733 h 54.61334 z"
+         style="font-size:85.33333588px"
+         id="path847" />
+    </g>
   </g>
 </svg>
