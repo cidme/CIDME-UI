@@ -1,0 +1,27 @@
+{
+    "name": "cidmeUi",
+    "version": "0.1.0",
+    "description": "CIDME UI",
+    "scripts": {
+        "test": "cd test;jest cidme-ui.test.js",
+        "build": "tsc --alwaysStrict --strict --noImplicitAny --noImplicitThis --noImplicitReturns --noUnusedLocals --noUnusedParameters --noFallthroughCasesInSwitch --strictNullChecks --strictFunctionTypes --strictBindCallApply --strictPropertyInitialization --outDir dist src/*.ts",
+        "buildsimple": "tsc --outDir dist src/*.ts"
+    },
+    "author": {
+        "name": "Joe Thielen",
+        "email": "<joe@joethielen.com>",
+        "url": "https://github.com/joethielen"
+    },
+    "homepage": "http://cidme.net",
+    "license": "MIT",
+    "repository": "github:cidme/cidme-ui",
+    "bugs": "https://github.com/cidme/CIDME-UI/issues",
+    "main": "dist/cidmeUi.js",
+    "devDependencies": {
+        "jest": "^23.6.0",
+        "typescript": "^3.7.5"
+    },
+    "dependencies": {},
+    "directories.lib": "dist",
+    "directories.test": "test"
+}
