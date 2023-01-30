@@ -16,10 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="EntityContextAdd.svg"
+   sodipodi:docname="EntityContextAddAction.svg"
    inkscape:label="Entity-EntityContext1">
   <title
-     id="title4676">CIDME-UI CIDME EntityContext base icon - cidme.net</title>
+     id="title4676">CIDME-UI CIDME add EntityContext icon - cidme.net</title>
   <defs
      id="defs2">
     <linearGradient
@@ -40,9 +40,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="-2"
-     inkscape:cy="188.57143"
+     inkscape:cy="148.57143"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="text1503"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -58,17 +58,17 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>CIDME-UI CIDME EntityContext base icon - cidme.net</dc:title>
-        <dc:date>2020-01-02</dc:date>
+        <dc:title>CIDME-UI CIDME add EntityContext icon - cidme.net</dc:title>
+        <dc:date>2022-01-30</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>Joe Thielen &lt;joe@joethielen.com&gt;</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>CIDME-UI CIDME EntityContext base icon - cidme.net</dc:description>
+        <dc:description>CIDME-UI CIDME add EntityContext base icon - cidme.net</dc:description>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>CIDME EntityContext base icon</rdf:li>
+            <rdf:li>CIDME add EntityContext base icon</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <cc:license
@@ -153,11 +153,12 @@
     <g
        aria-label="+"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       id="text1503">
+       id="text1503"
+       transform="translate(0,88)">
       <path
          d="m 253.79687,490.55206 v 21.75782 h 21.75782 v 6.64062 h -21.75782 v 21.75781 h -6.5625 V 518.9505 h -21.75781 v -6.64062 h 21.75781 v -21.75782 z"
-         style=""
-         id="path2142" />
+         id="path2142"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
