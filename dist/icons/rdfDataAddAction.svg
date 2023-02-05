@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="rdfDataAddAction.svg"
+   inkscape:label="Entity-EntityContext1">
+  <title
+     id="title4676">CIDME-UI CIDME add rdfData icon - cidme.net</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient11833"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11831" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4509"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4507" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="3.2765201"
+     inkscape:cy="268.57143"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="4"
+     inkscape:window-y="55"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CIDME-UI CIDME add rdfData icon - cidme.net</dc:title>
+        <dc:date>2023-02-05</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Joe Thielen &lt;joe@joethielen.com&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>CIDME-UI CIDME add rdfData icon - cidme.net</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>CIDME add rdfData icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-164.70831)">
+    <circle
+       id="path4503-0"
+       cx="250"
+       cy="514.70831"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.77545404;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="Resource"
+       r="47.612274" />
+    <circle
+       id="path4503"
+       cx="400"
+       cy="314.70831"
+       style="fill:#000000;fill-opacity:0.25098041;stroke:#000000;stroke-width:4.77545404;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="ContextData"
+       r="47.612274" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 278.56684,476.6192 371.43316,352.79743"
+       id="path6330"
+       inkscape:connector-curvature="3"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#path4503-0"
+       inkscape:connection-end="#path4503"
+       inkscape:label="ResourceToContextData" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Borg 9';-inkscape-font-specification:'Borg 9, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="202.23253"
+       y="294.89148"
+       id="text1051"><tspan
+         sodipodi:role="line"
+         id="tspan1049"
+         x="202.23253"
+         y="329.61148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></text>
+    <g
+       aria-label="R"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Borg 9';-inkscape-font-specification:'Borg 9, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="text1055"
+       transform="translate(289.20667,23.757359)">
+      <path
+         d="m 114.67327,293.52255 q 2.03125,0.6875 3.9375,2.9375 1.9375,2.25 3.875,6.1875 l 6.40625,12.75 h -6.78125 l -5.96875,-11.96875 q -2.3125,-4.6875 -4.5,-6.21875 -2.15625,-1.53125 -5.90625,-1.53125 h -6.874999 v 19.71875 h -6.3125 V 268.7413 h 14.249999 q 8,0 11.9375,3.34375 3.9375,3.34375 3.9375,10.09375 0,4.40625 -2.0625,7.3125 -2.03125,2.90625 -5.9375,4.03125 z M 98.860771,273.9288 v 16.5625 h 7.937499 q 4.5625,0 6.875,-2.09375 2.34375,-2.125 2.34375,-6.21875 0,-4.09375 -2.34375,-6.15625 -2.3125,-2.09375 -6.875,-2.09375 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="path1124"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 319.01482,291.73366 v 21.75782 h 21.75782 v 6.64062 h -21.75782 v 21.75781 h -6.5625 V 320.1321 h -21.75781 v -6.64062 h 21.75781 v -21.75782 z"
+       id="path2142"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
